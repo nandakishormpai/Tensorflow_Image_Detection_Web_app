@@ -1,1 +1,1 @@
-# Tensorflow_Plant_Image_Detection_Web_app
+# Tensorflow_Image_Detection_Web_app
